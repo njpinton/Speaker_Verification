@@ -1,0 +1,2 @@
+python3 main_enrollment.py
+python3 main_verification.py
